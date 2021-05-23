@@ -1,0 +1,20 @@
+
+ALA = Alabama
+ALK = Alaska
+ARZ = Arizona
+ARK = Arkansas
+CAL = California
+COL = Colorado
+CRN = North Carolina
+CRS = South Carolina
+CTC = Connecticut
+DEL = Delaware
+FLO = Florida
+GEO = Georgia
+HII = Hawaii
+IDH = Idaho
+ILN = Illinois
+IND = Indiana
+IWA = Iowa
+KNS = Kansas
+KTY = Kentucky
