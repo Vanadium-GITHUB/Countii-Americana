@@ -1,0 +1,72 @@
+# Vancouver
+supply_area = {
+	id = 1
+	name = "SUPPLYAREA_1"
+	value = 10
+	states = {
+		1
+	}
+}
+# East Salish
+supply_area = {
+	id = 2
+	name = "SUPPLYAREA_2"
+	value = 10
+	states = {
+		
+	}
+}
+# West Salish
+supply_area = {
+	id = 3
+	name = "SUPPLYAREA_3"
+	value = 10
+	states = {
+		
+	}
+}
+# Cascade Coast
+supply_area = {
+	id = 3
+	name = "SUPPLYAREA_3"
+	value = 10
+	states = {
+		
+	}
+}
+# Lower Columbia
+supply_area = {
+	id = 4
+	name = "SUPPLYAREA_4"
+	value = 10
+	states = {
+		
+	}
+}
+# Upper Columbia
+supply_area = {
+	id = 5
+	name = "SUPPLYAREA_5"
+	value = 10
+	states = {
+		
+	}
+}
+# Snake
+supply_area = {
+	id = 6
+	name = "SUPPLYAREA_6"
+	value = 10
+	states = {
+		
+	}
+}
+# Oregon Basin
+supply_area = {
+	id = 7
+	name = "SUPPLYAREA_7"
+	value = 10
+	states = {
+		
+	}
+}
